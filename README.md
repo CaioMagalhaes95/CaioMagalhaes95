@@ -2,8 +2,8 @@
 
 A short preview about me:
 
-- 🔭 I’m currently working on Java Spring backend development at Ford Motor Company
-- 🌱 I’m currently learning JPA, MVC, Android Java, React Js, Docker
+- 🔭 I’m currently working React.js development at Ford Motor Company
+- 🌱 I’m learning React Js, GCP, terraform, IA, and always getting more updated!
 - 👯 I’m looking to collaborate on Web based Software development projects 
 - 💬 Ask me about Projects I have worked on, there are interesting things to know...
 - 📫 How to reach me: Whatsapp -  +55 15 9 9628-7551
