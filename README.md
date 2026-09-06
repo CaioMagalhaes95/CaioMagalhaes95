@@ -1,15 +1,15 @@
-# Hi there 👋
+## About Me
 
-A short preview about me:
+🔭 I currently work with data automation using Python, with 4 years of experience building solutions with tools such as Pandas and Streamlit.
 
-- 🔭 I’m currently working React.js development at Ford Motor Company
-- 🌱 I’m learning React Js, GCP, terraform, IA, and always getting more updated!
-- 👯 I’m looking to collaborate on Web based Software development projects 
-- 💬 Ask me about Projects I have worked on, there are interesting things to know...
-- 📫 How to reach me: Whatsapp -  +55 15 9 9628-7551
-- ⚡ Fun fact: I love learning new languages, just like Deutsch and Japanese
+💻 I also develop web applications using React.js and Next.js, contributing to feature development and coordinating backend work with Django.
 
-# Starting career
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomagalhaes95)](https://github.com/anuraghazra/github-readme-stats)
+📌 Beyond development, I work as a Product Owner for two projects and help lead multiple software initiatives. I am currently coordinating a portfolio of around 15 projects and collaborating with a team of nearly 10 developers.
 
+🚀 My experience combines hands-on technical development with project coordination, agile practices, team collaboration, and product delivery. My main areas of focus are Python, React, Next.js, Django, data automation, and web-based software.
 
+🌱 I am continuously improving my skills in cloud technologies, Terraform, AI, software architecture, and modern development practices.
+
+👯 I am open to collaborating on web applications, automation tools, data-driven products, and scalable software projects.
+
+💬 Feel free to ask me about the projects I have worked on, technical problem-solving, team coordination, or building products from idea to delivery.
